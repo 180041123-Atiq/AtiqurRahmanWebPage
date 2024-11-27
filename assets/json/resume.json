@@ -150,12 +150,28 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Few Shot Bangladeshi Traffic Sign Detector",
+      "summary": "Formulating an object detection model utilizing domain adaptation, pseudo support set, Embedded Normalization and Unfrozen Parameters concept to achieve comparatively better results than some SOTA architectures.",
+      "highlights": ["Few Shot Learning", "Faster-RCNN", "Traffic Signs Detection"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/180041123-Atiq/FSBD"
+    },
+    {
+      "name": "Bench-marking GTSRB for Few Shot Learning",
+      "summary": "Bench-marking GTSRB utilizing metric-based few shot classifiers e.g. BDCSPN, PrototypicalNet, RelationNet, TransductiveFinetune.",
+      "highlights": ["GTSRB", "Traffic Signs Classification"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/180041123-Atiq/PatternRecognition"
+    },
+    {
+      "name": "Federated Organ-agnostic Tumor Segmentation",
+      "summary": "Leveraging the U-Net architecture as both the global and local model in the FedAVG algorithm for tumor segmentation in two organs: the breast and the brain.",
+      "highlights": ["Federated Learning", "Unet", "Medical Image Segmentation"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/ishmamt/Federated-Tumor-Segmentation"
     }
   ]
 }
