@@ -30,7 +30,11 @@
       "startDate": "Present",
       "endDate": "2023-08-16",
       "summary": "Conducting coordinated lectures and laboratory sessions for CSE and SWE students, along with offering supplementary after-class sessions to support students in comprehending the covered topics. Additionally, managing various administrative responsibilities.",
-      "highlights": ["Mobile Application and Development", "Software Security", "Computer Vision"]
+      "highlights": [
+        "Mobile Application and Development",
+        "Software Security",
+        "Computer Vision"
+      ]
     },
     {
       "name": "United International University",
@@ -39,7 +43,11 @@
       "startDate": "2023-07-08",
       "endDate": "2023-08-14",
       "summary": "Taking coordinated classes and labs of CSE students and providing after class sessions to help students who have issues understanding the covered topics.",
-      "highlights": ["Theory of Computing", "Digital Logic Design", "Structured Programming"]
+      "highlights": [
+        "Theory of Computing",
+        "Digital Logic Design",
+        "Structured Programming"
+      ]
     },
     {
       "name": "Battery Low Interactive Ltd.",
@@ -88,30 +96,19 @@
       "name": "Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "React",
-        "React Native"
-      ]
+      "keywords": ["React", "React Native"]
     },
     {
       "name": "Databases",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Oracle and MySQL",
-        "Firebase"
-      ]
+      "keywords": ["Oracle and MySQL", "Firebase"]
     },
     {
       "name": "ML Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Scikit-learn",
-        "PyTorch",
-        "Tensorflow",
-        "Keras"
-      ]
+      "keywords": ["Scikit-learn", "PyTorch", "Tensorflow", "Keras"]
     }
   ],
   "languages": [
@@ -141,18 +138,18 @@
     {
       "name": "Federated Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "segmentation",
-        "Medical Image Analysis",
-        "Unet"
-      ]
+      "keywords": ["segmentation", "Medical Image Analysis", "Unet"]
     }
   ],
   "projects": [
     {
       "name": "Few Shot Bangladeshi Traffic Sign Detector",
       "summary": "Formulating an object detection model utilizing domain adaptation, pseudo support set, Embedded Normalization and Unfrozen Parameters concept to achieve comparatively better results than some SOTA architectures.",
-      "highlights": ["Few Shot Learning", "Faster-RCNN", "Traffic Signs Detection"],
+      "highlights": [
+        "Few Shot Learning",
+        "Faster-RCNN",
+        "Traffic Signs Detection"
+      ],
       "startDate": "",
       "endDate": "",
       "url": "https://github.com/180041123-Atiq/FSBD"
@@ -168,7 +165,11 @@
     {
       "name": "Federated Organ-agnostic Tumor Segmentation",
       "summary": "Leveraging the U-Net architecture as both the global and local model in the FedAVG algorithm for tumor segmentation in two organs: the breast and the brain.",
-      "highlights": ["Federated Learning", "Unet", "Medical Image Segmentation"],
+      "highlights": [
+        "Federated Learning",
+        "Unet",
+        "Medical Image Segmentation"
+      ],
       "startDate": "",
       "endDate": "",
       "url": "https://github.com/ishmamt/Federated-Tumor-Segmentation"
