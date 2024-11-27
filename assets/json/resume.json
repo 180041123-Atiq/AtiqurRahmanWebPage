@@ -116,7 +116,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Bangla",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -128,28 +128,24 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Few Shot Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Object Detection",
+        "Traffic Signs",
+        "Transfer Learning",
+        "Faster-RCNN",
+        "Yolo"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Federated Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "segmentation",
+        "Medical Image Analysis",
+        "Unet"
+      ]
     }
   ],
   "projects": [
