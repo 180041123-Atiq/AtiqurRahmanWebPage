@@ -71,7 +71,7 @@
       "releaseDate": "2024-09-23",
       "url": "https://arxiv.org/abs/2409.14852",
       "summary": "Automatic Traffic Sign Recognition is paramount in modern transportation systems, motivating several research endeavors to focus on performance improvement by utilizing large-scale datasets. As the appearance of traffic signs varies across countries, curating large-scale datasets is often impractical; and requires efficient models that can produce satisfactory performance using limited data. In this connection, we present 'FUSED-Net', built-upon Faster RCNN for traffic sign detection, enhanced by Unfrozen Parameters, Pseudo-Support Sets, Embedding Normalization, and Domain Adaptation while reducing data requirement."
-    },
+    }
   ],
   "skills": [
     {
