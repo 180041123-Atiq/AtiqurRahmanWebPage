@@ -8,41 +8,47 @@
     "url": "https://180041123-atiq.github.io/",
     "summary": "Enthusiastic Lecturer in Computer Science and Engineering with a passion for research in computer vision and a strong interest in competitive programming. Continuously striving to improve problem-solving skills, actively engages in challenging tasks and projects to push personal and professional limits. Dedicated to inspiring students through impactful teaching and fostering innovation in computing and engineering.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "House 26, Road 16, Adabor, Mohammadpur",
+      "postalCode": "1207",
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "facebook",
+        "username": "Atiqur Rahman",
+        "url": "https://web.facebook.com/atiq.shafin.1"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Islamic University of Technology",
+      "position": "Lecturer of Computer Science and Engineering",
+      "url": "https://cse.iutoic-dhaka.edu/profile/atiqurrahman/education",
+      "startDate": "Present",
+      "endDate": "2023-08-16",
+      "summary": "Conducting coordinated lectures and laboratory sessions for CSE and SWE students, along with offering supplementary after-class sessions to support students in comprehending the covered topics. Additionally, managing various administrative responsibilities.",
+      "highlights": ["Mobile Application and Development", "Software Security", "Computer Vision"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "United International University",
+      "position": "Lecturer of Computer Science and Engineering",
+      "url": "",
+      "startDate": "2023-07-08",
+      "endDate": "2023-08-14",
+      "summary": "Taking coordinated classes and labs of CSE students and providing after class sessions to help students who have issues understanding the covered topics.",
+      "highlights": ["Theory of Computing", "Digital Logic Design", "Structured Programming"]
+    },
+    {
+      "name": "Battery Low Interactive Ltd.",
+      "position": "Game Developer Intern",
+      "url": "",
+      "startDate": "2021-10-31",
+      "endDate": "2021-11-13",
+      "summary": "Designed and developed dynamic and responsive 2D games",
+      "highlights": ["C#", "Unity Game Engine"]
     }
   ],
   "education": [
